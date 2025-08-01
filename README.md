@@ -1,5 +1,5 @@
 # SumeetShelake
-# Hi there, I'm Sumeet Shelake 👋
+# Hi, I'm Sumeet Shelake! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building meaningful projects that solve real-world problems. I love learning new things, exploring different programming languages, and collaborating with fellow developers.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - 🌱 I’m constantly learning **[technologies or skills you are currently focusing on]**
 - 👯 I’m open to collaborating on open-source projects and innovative ideas
 - 💬 Ask me about **JavaScript, Python, React, Node.js, or anything tech-related!**
-- 📫 How to reach me: **[Sumeet Shelake and sumeetshelake@gmail.com]
+- 📫 How to reach me: **[Sumeet Shelake and sumeetshelake12@gmail.com]
 - ⚡ Fun fact: I love **[a hobby or interesting fact about you]**
 
 ---
