@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 
 ---
 
-## 📈 GitHub Stats
-
-![Sumeet Shelake's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetShelake&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Find Me Around the Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeetshelake)  
