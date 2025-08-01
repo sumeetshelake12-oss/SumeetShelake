@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&color=FF0000&center=true&vCenter=true&lines=Coding+is+not+just+a+skill%2C+it's+an+art." alt="Typing SVG"/>
 </div>
+<!-- Animated Space Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Sumeet%20Shelake&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
+
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building meaningful projects that solve real-world problems. I love learning new things, exploring different programming languages, and collaborating with fellow developers.
 
