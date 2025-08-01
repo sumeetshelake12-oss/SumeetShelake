@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - 👯 I’m open to collaborating on open-source projects and innovative ideas
 - 💬 Ask me about **JavaScript, Python, React, Node.js, or anything tech-related!**
 - 📫 How to reach me: **[Sumeet Shelake and sumeetshelake12@gmail.com]
-- ⚡ Fun fact: I love **[a hobby or interesting fact about you]**
+- ⚡ Fun fact: I love **[to play outdoor sports and indoor sports and listening songs]**
 
 ---
 
