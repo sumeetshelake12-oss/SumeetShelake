@@ -1,5 +1,8 @@
  # SumeetShelake
 # Hi, I'm Sumeet Shelake! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&color=FF0000&center=true&vCenter=true&lines=Coding+is+not+just+a+skill%2C+it's+an+art." alt="Typing SVG"/>
+</div>
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building meaningful projects that solve real-world problems. I love learning new things, exploring different programming languages, and collaborating with fellow developers.
 
